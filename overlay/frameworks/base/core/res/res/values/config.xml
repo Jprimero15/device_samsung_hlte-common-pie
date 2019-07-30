@@ -270,4 +270,7 @@
     <!-- enable doze powersaving mode -->
     <bool name="config_enableAutoPowerModes">true</bool>
 
+    <!-- Enable the RingtonePickerActivity in 'com.android.providers.media'. -->
+    <bool name="config_defaultRingtonePickerEnabled">true</bool>
+
 </resources>
